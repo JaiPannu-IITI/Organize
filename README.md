@@ -44,6 +44,24 @@ Age Rating: All Ages ,
 In-App Purchases: No 
 
 
+Important Instructions for viewers/developers:
+
+1.Make sure you have selected Team in XCode before buiding the project
+
+2.If Error arises "Permission Required" then go to Cigning capabilites > App sandbox > File Access Type > Give all read and write permission
+This enables the application to modify any directory in you Mac
+
+<img width="1710" alt="image" src="https://github.com/JaiPannu-IITI/Organize/assets/142983705/666fa5e4-c2be-4a1d-acd4-204e75cd58fc">
+
+3.To launch app from dmg/app file, If Error arises "Cannot verify" go to System Setting > Privacy & Security > Security > Enable Allow app from App store and identified Developer > Open Anyway
+
+<img width="711" alt="image" src="https://github.com/JaiPannu-IITI/Organize/assets/142983705/bf5b09e4-c577-4f9a-aa63-de21b0e896f4">
+
+
+
+
+
+
 
 
 
