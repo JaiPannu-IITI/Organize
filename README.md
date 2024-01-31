@@ -57,8 +57,7 @@ This enables the application to modify any directory in you Mac
 
 <img width="711" alt="image" src="https://github.com/JaiPannu-IITI/Organize/assets/142983705/bf5b09e4-c577-4f9a-aa63-de21b0e896f4">
 
-
-
+4.If App Icons are not visible, Go for a clean build process.
 
 
 
